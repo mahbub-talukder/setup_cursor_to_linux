@@ -15,7 +15,7 @@ This guide provides a simple and automated way to install **Cursor IDE** on your
 
 ### 1. Download the Installation Script
 
-Download the `install_cursor.sh` script to your local machine. 
+Download the `install_cursor.sh` script manually. 
 
 
 Or, You can use `wget` or `curl`.
