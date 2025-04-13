@@ -7,7 +7,7 @@ echo "Installing Cursor AI IDE..."
     # URLs for Cursor AppImage and Icon
     # CURSOR_URL="https://downloader.cursor.sh/linux/appImage/x64"
     CURSOR_URL="https://downloads.cursor.com/production/7801a556824585b7f2721900066bc87c4a09b743/linux/x64/Cursor-0.48.8-x86_64.AppImage"
-    ICON_URL="https://images.seeklogo.com/logo-png/61/1/cursor-logo-png_seeklogo-611587.png"
+    ICON_URL="https://raw.githubusercontent.com/mahbub-talukder/setup_cursor_to_linux/refs/heads/main/cursor.png"
 
     # Paths for installation
     APPIMAGE_PATH="/opt/cursor.appimage"
